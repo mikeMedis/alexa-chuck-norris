@@ -1,0 +1,14 @@
+ChuckNorrisJokeIntent a joke
+ChuckNorrisJokeIntent a Chuck Norris joke
+ChuckNorrisJokeIntent tell me a joke
+ChuckNorrisJokeIntent tell me a Chuck Norris joke
+ChuckNorrisJokeIntent give me a joke
+ChuckNorrisJokeIntent give me a Chuck Norris joke
+ChuckNorrisJokeIntent tell me a jokes
+ChuckNorrisJokeIntent tell me a Chuck Norris joke
+ChuckNorrisJokeIntent give me a joke
+ChuckNorrisJokeIntent give me a Chuck Norris joke
+ChuckNorrisJokeIntent give me some jokes
+ChuckNorrisJokeIntent give me some Chuck Norris jokes
+ChuckNorrisJokeIntent tell me something about Chuck Norris
+ChuckNorrisJokeIntent give me something about Chuck Norris

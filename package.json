@@ -1,0 +1,27 @@
+{
+  "name": "(chucknorris)",
+  "version": "1.0.0",
+  "description": "Alexa Skill using ChuckNorris.io API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeMedis/chuckNorrisJoke_skill.git"
+  },
+  "author": "Mike Medis",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/mikeMedis/chuckNorrisJoke_skill/issues"
+  },
+  "homepage": "https://github.com/mikeMedis/chuckNorrisJoke_skill#readme",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "lodash": "^4.13.1",
+    "mocha": "^2.5.3",
+    "request-promise": "^3.0.0"
+  }
+}
